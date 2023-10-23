@@ -1,0 +1,2 @@
+Install slide item
+yarn add infinate-react-carousel
